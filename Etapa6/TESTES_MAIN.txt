@@ -1,0 +1,8 @@
+=== TESTES DO ROUTE PLANNER - ETAPA 6 ===
+[OK] Docas cadastradas: Doca 10 / Doca 20
+[OK] Rotas cadastradas: A1, A2, B1
+[OK] Importacao CSV validada
+[OK] Processamento do arquivo validado
+[OK] Relatorio por doca: {10=2, 20=1}
+[OK] Validacao rejeitou rota sem nome
+=== FIM DOS TESTES ===
